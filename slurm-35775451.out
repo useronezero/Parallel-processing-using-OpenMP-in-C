@@ -1,0 +1,22 @@
+Node list                    : node060
+Number of nodes allocated    : 1 or 1
+Number of threads or processes          : 
+Number of processes per node : 10
+Requested tasks per node     : 
+Requested CPUs per task      : 4
+Scheduling priority          : 0
+compiling market_parallel.c to market_parallel.exe
+using 4 OpenMP threads
+Time taken : 39.73
+Top 10 Results:
+Combination: 2 -- Average: 40.16 -- Standard Deviation: 34.95
+Combination: 34 -- Average: 40.11 -- Standard Deviation: 24.56
+Combination: 2050 -- Average: 40.07 -- Standard Deviation: 24.66
+Combination: 2082 -- Average: 40.07 -- Standard Deviation: 20.05
+Combination: 32 -- Average: 40.05 -- Standard Deviation: 34.77
+Combination: 546 -- Average: 40.04 -- Standard Deviation: 20.07
+Combination: 32802 -- Average: 40.04 -- Standard Deviation: 20.03
+Combination: 42 -- Average: 40.04 -- Standard Deviation: 20.08
+Combination: 514 -- Average: 40.03 -- Standard Deviation: 24.59
+Combination: 32770 -- Average: 40.03 -- Standard Deviation: 24.68
+---
